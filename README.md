@@ -22,12 +22,12 @@ cd TicTacToeVsAI
 
 ### 2️⃣ Compile the Code  
 ```bash
-g++ tic_tac_toe.cpp -o tic_tac_toe
+g++ TicTacToeVsAI.cpp -o TicTacToeVsAI
 ```
 
 ### 3️⃣ Run the Game  
 ```bash
-./tic_tac_toe
+./TicTacToeVsAI
 ```
 
 ## 🔥 Future Improvements  
